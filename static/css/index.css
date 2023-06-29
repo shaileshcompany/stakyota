@@ -35,7 +35,8 @@ body {
 }
 
 .v-effect-link a:hover {
-  color: rgb(20%, 10%, 30%);
+  /* background-color: white; */
+  color: linear-gradient(135deg, rgb(100, 91, 175) 30%, rgb(255, 115, 0));
 }
 
 .v-effect-link a:hover:before {
