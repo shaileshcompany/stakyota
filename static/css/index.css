@@ -35,7 +35,7 @@ body {
 }
 
 .v-effect-link a:hover {
-  color: #4e9c4e;
+  color: rgb(20%, 10%, 30%);
 }
 
 .v-effect-link a:hover:before {
